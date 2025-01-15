@@ -8,3 +8,6 @@ More # = smaller headings
 
 ## Table of contents
 Can import raw links in
+
+### linking to another section
+[link here](#table of contents)
